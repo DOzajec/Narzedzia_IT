@@ -1,2 +1,2 @@
-# lab3
-lab3 zadania
+# Narzędzia IT
+lab Narzędzia IT
